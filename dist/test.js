@@ -1,0 +1,1 @@
+export function getName(){console.log("My name is Jad")}
