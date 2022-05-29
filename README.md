@@ -6,7 +6,7 @@
 </p>
 
 
-# What is Note.io?
+# What is Note.io :grey_question:
  Whether it’s a key stakeholder which missed a meeting, or if you need to loop in other colleagues, Note.io, a chrome extension that interfaces with platforms such as Microsoft Teams, Google Meets, Zoom, provides users with automatic transcription of meeting notes that are summarized, shareable, searchable, and readily accessible to team members. Our meeting transcription solution helps teams work better, together. <br /> 
 # Demo :computer:
 With Note.io, your video meeting transcripts enable your team to instantly find, access, and interact with the information they need – without wasting time scanning through hours of video. <br /> <br />
