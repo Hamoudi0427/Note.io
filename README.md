@@ -31,3 +31,5 @@ Lastly, accuracy is essential to a useful meeting transcript, but many built-in 
   - Source File Name: Folder that contains the recordings in onedrive.
   - Video ID: It's fetched automatically once your on a youtube video
   - Press Generate Notes, and the PDF will be downloaded to your computer.
+  
+![ss-2](https://user-images.githubusercontent.com/94769986/170879310-23d90c50-2717-496d-bdef-004ec2fdf710.png)
