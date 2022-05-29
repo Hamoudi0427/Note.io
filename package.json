@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@vespaiach/axios-fetch-adapter": "^0.3.0",
+    "axios": "^0.27.2",
     "crypto-js": "^4.1.1",
+    "jspdf": "^2.5.1",
+    "node-fetch": "^3.2.4",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   },
