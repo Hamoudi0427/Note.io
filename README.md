@@ -1,5 +1,7 @@
 # Note.io :memo:
 
+![ss-2](https://user-images.githubusercontent.com/94769986/170879310-23d90c50-2717-496d-bdef-004ec2fdf710.png)
+
 # What is Note.io?
  Whether it’s a key stakeholder which missed a meeting, or if you need to loop in other colleagues, Note.io, a chrome extension that interfaces with platforms such as Microsoft Teams, Google Meets, Zoom, provides users with automatic transcription of meeting notes that are summarized, shareable, searchable, and readily accessible to team members. Our meeting transcription solution helps teams work better, together. <br /> 
 # Demo :computer:
@@ -31,5 +33,4 @@ Lastly, accuracy is essential to a useful meeting transcript, but many built-in 
   - Source File Name: Folder that contains the recordings in onedrive.
   - Video ID: It's fetched automatically once your on a youtube video
   - Press Generate Notes, and the PDF will be downloaded to your computer.
-  
-![ss-2](https://user-images.githubusercontent.com/94769986/170879310-23d90c50-2717-496d-bdef-004ec2fdf710.png)
+ 
