@@ -14,9 +14,9 @@ Also, transcribing video meetings shouldn’t be a painful process. With Note.io
 In addition, with Note.io you can easily access, review, and collaborate on your transcripts in a shared directory on the platform of your choice, allowing you to post follow-up questions, and mention colleagues directly in the transcript. <br /> <br />
 Lastly, accuracy is essential to a useful meeting transcript, but many built-in transcription tools are unable to adapt well to different topics or accents. Note.io uses an AI-powered speech recognition engine to deliver highly accurate meeting transcripts. <br /> <br />
 # Youtube Demo: 
-<p align="center"> 
+<div align="center"> 
   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s1zeukjiQm0/0.jpg)](https://www.youtube.com/watch?v=s1zeukjiQm0)
-</p>
+</div>
 
 # How To Install:
   - 1 - Pull Github Repo
