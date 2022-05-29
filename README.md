@@ -34,3 +34,4 @@ Lastly, accuracy is essential to a useful meeting transcript, but many built-in 
   - Video ID: It's fetched automatically once your on a youtube video
   - Press Generate Notes, and the PDF will be downloaded to your computer.
  
+![ss-1](https://user-images.githubusercontent.com/94769986/170879618-24631203-6457-4d1b-a7ea-ad6b37bb2486.png)
