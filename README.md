@@ -15,7 +15,7 @@ In addition, with Note.io you can easily access, review, and collaborate on your
 Lastly, accuracy is essential to a useful meeting transcript, but many built-in transcription tools are unable to adapt well to different topics or accents. Note.io uses an AI-powered speech recognition engine to deliver highly accurate meeting transcripts. <br /> <br />
 # Youtube Demo: 
 <div align="center"> 
-  <img align="center" src="https://img.youtube.com/vi/s1zeukjiQm0/0.jpg" href="https://www.youtube.com/watch?v=s1zeukjiQm0" />
+  <a href="https://www.youtube.com/watch?v=s1zeukjiQm0"> <img align="center" src="https://img.youtube.com/vi/s1zeukjiQm0/0.jpg" /> </a>
 </div>
 
 # How To Install:
