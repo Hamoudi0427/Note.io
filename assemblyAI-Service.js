@@ -2,7 +2,7 @@ import axios from "axios";
 import fetchAdapter from "@vespaiach/axios-fetch-adapter";
 
 const key = "99f0919805ff4536b2a85fc57a7d21f9";
-
+export let status = ""
 // base header including the key for requests
 const assembly = axios.create({
     baseURL: "https://api.assemblyai.com/v2",
@@ -14,39 +14,51 @@ const assembly = axios.create({
 });
 
 // extract a basic transcription from a video given the link
-export default function sendBasicTranscriptionRequest(videoLink)
+export function sendBasicTranscriptionRequest(videoLink)
 {
-    assembly
-    .post("/transcript", {
-        audio_url: videoLink,
-        auto_chapters: true
-    })
-    .then((res) => 
-        {
-             console.log(res);
-             return res.data;
+    return new Promise((resolve,reject) => {
+        assembly
+        .post("/transcript", {
+            audio_url: videoLink,
+            auto_chapters: true
+        })
+        .then((res) => 
+            {
+                 console.log(res);
+                 return res.data;
+            }
+        )
+        .then((data) =>{
+            status = data.status
+    
+            receiveBasicTranscriptionRequest(data.id).then((res) => {
+                resolve(res)
+            })
         }
-    )
-    .then((data) =>
-        receiveBasicTranscriptionRequest(data.id)
-    )
-    .catch((err) => console.log(err));
+        )
+        .catch((err) => console.log(err));
+    })
+    
 }
 
 function receiveBasicTranscriptionRequest(requestId)
 {
-    const timeout = setInterval(() => {
-        console.log("loading...")
-        assembly
-        .get(`/transcript/${requestId}`)
-        .then((res) => {
-            console.log(res)
-            if(res.data.status === "completed"){
-                console.log("Done")
-                clearInterval(timeout);
-            }
-        })
-//.then micorosft post
-        .catch((err) => console.log(err));
-    },30000)
+    return new Promise((resolve,reject) => {
+        const timeout = setInterval(() => {
+            console.log("loading...")
+            assembly
+            .get(`/transcript/${requestId}`)
+            .then((res) => {
+                console.log(res)
+                if(res.data.status === "completed"){
+                    clearInterval(timeout);
+                    resolve({status:"Completed", data:res.data.chapters})
+                }
+                status = res.data.status
+            })
+    //.then micorosft post
+            .catch((err) => console.log(err));
+        }, 15000)
+    })
+
 }
