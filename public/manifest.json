@@ -1,7 +1,7 @@
 {
-    "name": "TO-Hacks",
-    "description": "Build an Extension!",
-    "version": "0.0",
+    "name": "Note.io",
+    "description": "Note Taking Just Got Easier",
+    "version": "0.1",
     "manifest_version": 3,
     "action":{
         "default_popup":"popup.html"
