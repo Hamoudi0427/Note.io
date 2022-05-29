@@ -2,6 +2,12 @@
 
 ![ss-2](https://user-images.githubusercontent.com/94769986/170879310-23d90c50-2717-496d-bdef-004ec2fdf710.png)
 
+<p align="center">
+  <img width="600" height="381" src="[https://github.com/Hamoudi0427/Rubiks_solver/blob/master/Test_Demo/cube_init.gif](https://user-images.githubusercontent.com/94769986/170879310-23d90c50-2717-496d-bdef-004ec2fdf710.png)">
+  <img width="600" height="381" src="https://github.com/Hamoudi0427/Rubiks_solver/blob/master/Test_Demo/cube_init.gif">
+</p>
+
+
 # What is Note.io?
  Whether it’s a key stakeholder which missed a meeting, or if you need to loop in other colleagues, Note.io, a chrome extension that interfaces with platforms such as Microsoft Teams, Google Meets, Zoom, provides users with automatic transcription of meeting notes that are summarized, shareable, searchable, and readily accessible to team members. Our meeting transcription solution helps teams work better, together. <br /> 
 # Demo :computer:
