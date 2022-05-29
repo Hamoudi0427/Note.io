@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="40%" height="auto" src="https://user-images.githubusercontent.com/94769986/170879310-23d90c50-2717-496d-bdef-004ec2fdf710.png">
-  <img width="40%" height="381" src="https://github.com/Hamoudi0427/Rubiks_solver/blob/master/Test_Demo/cube_init.gif">
+  <img width="40%" height="381" src="https://user-images.githubusercontent.com/94769986/170879618-24631203-6457-4d1b-a7ea-ad6b37bb2486.png">
 </p>
 
 
@@ -37,5 +37,3 @@ Lastly, accuracy is essential to a useful meeting transcript, but many built-in 
   - Source File Name: Folder that contains the recordings in onedrive.
   - Video ID: It's fetched automatically once your on a youtube video
   - Press Generate Notes, and the PDF will be downloaded to your computer.
- 
-![ss-1](https://user-images.githubusercontent.com/94769986/170879618-24631203-6457-4d1b-a7ea-ad6b37bb2486.png)
