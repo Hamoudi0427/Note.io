@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="40%" height="auto" src="https://user-images.githubusercontent.com/94769986/170879310-23d90c50-2717-496d-bdef-004ec2fdf710.png">
-  <img width="600" height="381" src="https://github.com/Hamoudi0427/Rubiks_solver/blob/master/Test_Demo/cube_init.gif">
+  <img width="40%" height="381" src="https://github.com/Hamoudi0427/Rubiks_solver/blob/master/Test_Demo/cube_init.gif">
 </p>
 
 
