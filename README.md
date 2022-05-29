@@ -1,8 +1,8 @@
 # Note.io :memo:
 
 <p align="center">
-  <img margin="auto" width="30%" height="auto" src="https://user-images.githubusercontent.com/94769986/170879310-23d90c50-2717-496d-bdef-004ec2fdf710.png">
-  <img width="auto" height="381" src="https://user-images.githubusercontent.com/94769986/170879618-24631203-6457-4d1b-a7ea-ad6b37bb2486.png">
+  <img margin="auto" width="25%" height="auto" src="https://user-images.githubusercontent.com/94769986/170879310-23d90c50-2717-496d-bdef-004ec2fdf710.png">
+  <img width="auto" height="auto" src="https://user-images.githubusercontent.com/94769986/170879618-24631203-6457-4d1b-a7ea-ad6b37bb2486.png">
 </p>
 
 
